@@ -99,7 +99,7 @@ This is a MXNET implementation of VarGFaceNet. We achieved 1st place at Light-we
 - https://github.com/dlunion/DBFace
 
 **汇总：**
-
+- https://github.com/ChanChiChoi/awesome-Face_Recognition
 - https://github.com/search?q=face+detection
 - https://github.com/search?q=face+recognition
 - https://github.com/search?q=face&type=
